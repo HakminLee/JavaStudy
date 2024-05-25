@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>margin 값을 -(마이너스)로 줘서 가운데 정렬</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        background-color: red;
+      }
+      #container {
+        width: 500px;
+        height: 250px;
+        background-color: orange;
+        /* 시작점이 화면의 가운데 위치 */
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        /* clac( ) 함수를 사용하여 계산 가능 */
+        /* 요소의 절반 크기 만큼 다시 이동해서 가운데 정렬 */
+        margin-top: -125px;
+        margin-left: -250px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <h1>요소의 중앙 배치</h1>
+    </div>
+  </body>
+</html>

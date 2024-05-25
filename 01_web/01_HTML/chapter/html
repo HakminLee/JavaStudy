@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charest="UTF-8"/>
+        <meta name="viewport" content="width=device=width, initial-scale=1,0"
+        <title>HTML 연습</title>
+    </head>
+    </body>
+    <h1>Hello World!</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci sit eos natus incidunt repudiandae neque. Excepturi aliquid dolorem nam. Hic voluptas sint praesentium ex et quidem saepe aut consequatur earum.</p>
+    <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe mollitia sed minus commodi quas dolorum, nobis dolor deserunt officia voluptatem, vitae in sit eligendi. Facilis quasi ullam voluptatem unde autem?</P>
+    <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe mollitia sed minus commodi quas dolorum, nobis dolor deserunt officia voluptatem, vitae in sit eligendi. Facilis quasi ullam voluptatem unde autem?</P>
+    <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe mollitia sed minus commodi quas dolorum, nobis dolor deserunt officia voluptatem, vitae in sit eligendi. Facilis quasi ullam voluptatem unde autem?</P>
+    <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe mollitia sed minus commodi quas dolorum, nobis dolor deserunt officia voluptatem, vitae in sit eligendi. Facilis quasi ullam voluptatem unde autem?</P>
+    </body>
+
+</html>

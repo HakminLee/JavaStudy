@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>one true 레이아웃 구성</title>
+    <style>
+      body {
+        width: 500px;
+        margin: 10px auto;
+      }
+      #top {
+        background-color: green;
+      }
+      #middle {
+        display: flex;
+        /* display를 flex로 설정하면 자동으로 수평 정렬된다. */
+      }
+      #bottom {
+        background-color: purple;
+      }
+      #left {
+        background-color: red;
+        width: 150px;
+      }
+      #right {
+        width: 350px;
+        background-color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="top">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
+      architecto. Neque ducimus fugit obcaecati quos, magnam cum amet quod
+      quaerat molestias velit, modi temporibus voluptatum esse quia ut officiis
+      tempore?
+    </div>
+    <div id="middle">
+      <div id="left">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+      </div>
+      <div id="right">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus
+        sequi, sit praesentium nihil eligendi repellat reprehenderit eos
+        voluptatum animi obcaecati, tempore aliquam sapiente ducimus officia
+        fugit placeat! Quod, natus ipsa.
+      </div>
+    </div>
+    <div id="bottom">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio atque
+      impedit delectus. Optio quidem nostrum quia ut sunt vero aliquam obcaecati
+      dolorum dolore molestiae, quis, magnam provident, aliquid facere
+      veritatis?
+    </div>
+  </body>
+</html>

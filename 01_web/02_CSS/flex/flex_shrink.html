@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .flex-container {
+        background-color: blue;
+        display: flex;
+        width: 400px;
+        height: 200px;
+      }
+      .flex-item {
+        background-color: ghostwhite;
+        width: 100px;
+        height: 100px;
+        border: 3px solid red;
+        text-align: center;
+        font-size: 30px;
+      }
+      .flex-item:nth-child(2) {
+        /* flex-shrink: 감소 비율, 기본값은 -1 이다; */
+        /* 따라서 감소비율 0을 먹일 경우 그렇지 않은 것들이 더 줄어든다 */
+        flex: 0 0 200px;
+        /* flex : flex-glow + flex-shrink + flex-basis */
+        /* flex-shrink: 0; */
+      }
+      .flex-item:nth-child(3) {
+        flex-grow: 3;
+      }
+    </style>
+    .
+  </head>
+  <body>
+    <div class="flex-container">
+      <div class="flex-item">1</div>
+      <div class="flex-item">2</div>
+      <div class="flex-item">3</div>
+      <div class="flex-item">4</div>
+      <div class="flex-item">5</div>
+    </div>
+  </body>
+</html>
