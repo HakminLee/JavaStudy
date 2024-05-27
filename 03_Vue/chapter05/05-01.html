@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="app">
+      <!-- amount 데이터와 양방향 바인딩해서 숫자화 시킴 -->
+      금액 : <input type="text" v-model.number="amount" /><br />
+      <!-- 입금 버튼 클릭시 balance 값에 amount 값을 int로 변경하여 더해준다. -->
+      <button v-on:click="balance +=parseInt(amount)">입금</button>
+      <!-- 인출 버튼 클릭시 balance 값에 amount 값을 int로 변경하여 빼준다. -->
+      <button v-on:click="balance -=parseInt(amount)">인출</button>
+      <br />
+      <h3>계좌 잔고 : [{{balance}}]</h3>
+    </div>
+
+    <script src="http://unpkg.com/vue"></script>
+    <script>
+      let vm = Vue.createApp({
+        name: 'App',
+        data() {
+          //amont : 실제 입력값, balance : 잔고
+          return { amount: 0, balance: 0 };
+        },
+        // computed 는 proxy 객체를 가지고 있으면 해당 객체들이 변경될 때마다
+        // 자동으로 값을 다시 계산해준다.
+        computed: {
+          sum() {
+            let result = Number(this.x) + Number(this.y);
+            if (isNaN(result)) return 0;
+            else return result;
+          },
+        },
+      }).mount('#app'); // id가 app인 요소와 연결해줌
+    </script>
+  </body>
+</html>
