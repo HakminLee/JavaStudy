@@ -41,6 +41,7 @@ public class AggregateExample {
         System.out.println("최소값: "+min);
 
         //첫 번째 요소
+        // findFirst() :  해당하는 요소들의 첫번째 값을 OptionalInt로 반환, int로 변경 필요
         int first = Arrays.stream(arr)
                 .filter(n->n%3==0)
                 .findFirst()
