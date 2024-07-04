@@ -17,9 +17,11 @@ public class OptionalExample {
          */
 
         //방법1
+//        기존 average의 리턴값이ㅣㄴ OptionalDouble로 변수 생성
         OptionalDouble optional = list.stream()
                 .mapToInt(Integer :: intValue)
                 .average();
+        // optional 값이 존재한다면 double로 변경해줌
                 if(optional.isPresent()){
                     System.out.println("방법1_평균: "+optional.getAsDouble());
                 }else{
@@ -37,6 +39,8 @@ public class OptionalExample {
         list.stream()
                 .mapToInt(Integer::intValue)
                 .average()
+                // ifPresent : 만약 해당 값이 존재한다면 해당 기능을 싱행
+                // 현재는 존재하지 않으므로 아무것도 출력되지 않음
                 .ifPresent(a->System.out.println("방법3_평균: "+a));
 
     }
