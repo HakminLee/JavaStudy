@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>가계부</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>사용 내역</h1>
+      <form id="account-form">
+        <div class="form-group">
+          <label for="date">날짜</label>
+          <input type="date" id="date" name="date" required />
+        </div>
+        <div class="form-group">
+          <label for="description">상세 내용</label>
+          <input
+            type="text"
+            id="description"
+            name="description"
+            placeholder="텍스트를 입력해주세요"
+            required
+          />
+        </div>
+        <div class="form-group">
+          <label for="type">분류</label>
+          <select id="type" name="type">
+            <option value="income">수입</option>
+            <option value="expense">지출</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="tag">태그</label>
+          <select id="tag" name="tag"></select>
+        </div>
+        <div class="form-group">
+          <label for="amount">금액</label>
+          <input
+            type="number"
+            id="amount"
+            name="amount"
+            placeholder="금액을 입력해주세요"
+            required
+          />
+        </div>
+        <button type="submit">저장</button>
+        <button type="button" id="cancel-btn" class="cancel-button">
+          취소
+        </button>
+      </form>
+    </div>
+    <script src="scripts.js"></script>
+  </body>
+</html>

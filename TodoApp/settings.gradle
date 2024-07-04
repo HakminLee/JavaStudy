@@ -1,0 +1,4 @@
+rootProject.name = 'TodoApp'
+include ':ScoulaCli'
+project(':ScoulaCli').projectDir=new File('C:\\kb_fullstack\\04_JAVA\\CLI-framework')
+

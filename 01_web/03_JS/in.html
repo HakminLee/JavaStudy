@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <template>
+      <div>
+        <h2>설정 페이지</h2>
+
+        <!-- 계정 관리 -->
+        <div>
+          <h3>계정 관리</h3>
+          <button @click="changePassword">비밀번호 변경</button>
+          <button @click="updateEmail">이메일 주소 업데이트</button>
+        </div>
+
+        <!-- 테마 변경 -->
+        <div>
+          <h3>테마 변경</h3>
+          <label
+            ><input type="radio" v-model="theme" value="light" /> 밝은
+            테마</label
+          >
+          <label
+            ><input type="radio" v-model="theme" value="dark" /> 어두운
+            테마</label
+          >
+        </div>
+
+        <!-- 알림 설정 -->
+        <div>
+          <h3>알림 설정</h3>
+          <label
+            ><input type="checkbox" v-model="notificationsEnabled" /> 푸시 알림
+            활성화</label
+          >
+        </div>
+
+        <!-- 저장 버튼 -->
+        <button @click="saveSettings">설정 저장</button>
+      </div>
+    </template>
+
+    <script>
+      export default {
+        data() {
+          return {
+            theme: 'light',
+            notificationsEnabled: true,
+          };
+        },
+        methods: {
+          changePassword() {
+            // 비밀번호 변경 로직 구현
+            alert('비밀번호 변경');
+          },
+          updateEmail() {
+            // 이메일 주소 업데이트 로직 구현
+            alert('이메일 주소 업데이트');
+          },
+          saveSettings() {
+            // 설정 저장 로직 구현
+            alert('설정 저장');
+          },
+        },
+      };
+    </script>
+  </body>
+</html>
