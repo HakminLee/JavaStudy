@@ -4,7 +4,7 @@ package week2;
 import java.util.Deque;
 import java.util.ArrayDeque;
 
-public class Solution {
+public class Solution1 {
     public boolean solution(String s) {
         Deque<Character> stack = new ArrayDeque<>();
 
