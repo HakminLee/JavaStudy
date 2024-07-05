@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efd09104-36fe-411f-86fe-d379782b6909" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/study/ch17/sec07/exam01/SortingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study/ch17/sec07/exam01/SortingExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/study/ch17/sec07/exam02/SortingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study/ch17/sec07/exam02/SortingExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/study/ch17/sec10/AggregateExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study/ch17/sec10/AggregateExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/study/ch17/sec10/OptionalExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study/ch17/sec10/OptionalExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch17/sec10/OptionalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch17/sec10/OptionalExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="efd09104-36fe-411f-86fe-d379782b6909" name="Changes" comment="2024.07.04 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,148 +44,148 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AExample.executor": "Run",
-    "Application.AbstrackMethodExample.executor": "Run",
-    "Application.AccountExample.executor": "Run",
-    "Application.AccuracyExample1.executor": "Run",
-    "Application.AccuracyExample2.executor": "Run",
-    "Application.AggregateExample.executor": "Run",
-    "Application.App.executor": "Run",
-    "Application.ArrayCreatByValueListExample.executor": "Run",
-    "Application.ArrayListExample.executor": "Run",
-    "Application.AssignmentOperatorExample.executor": "Run",
-    "Application.BeepPrintExample.executor": "Run",
-    "Application.BoxingUnBoxingExample.executor": "Run",
-    "Application.ButtonExample.executor": "Run",
-    "Application.ByteExample.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.CalculatorExample.executor": "Run",
-    "Application.CarExample.executor": "Run",
-    "Application.CastingExample.executor": "Run",
-    "Application.CharAtExample.executor": "Run",
-    "Application.ComparableExample.executor": "Run",
-    "Application.ComparatorExample.executor": "Run",
-    "Application.CompareOperatorExample.executor": "Run",
-    "Application.ComputerExample.executor": "Run",
-    "Application.ConditionalOperatorExample.executor": "Run",
-    "Application.DriverExample.executor": "Run",
-    "Application.EarthExample.executor": "Run",
-    "Application.EqualsExample.executor": "Run",
-    "Application.ErrExample.executor": "Run",
-    "Application.Example.executor": "Run",
-    "Application.ExceptionHandlingExample.executor": "Run",
-    "Application.ExceptionHandlingExample1.executor": "Run",
-    "Application.ExitExample.executor": "Run",
-    "Application.ExtendsExample.executor": "Run",
-    "Application.FilteringExample.executor": "Run",
-    "Application.FlatMappingExample.executor": "Run",
-    "Application.GarbageObjectExample.executor": "Run",
-    "Application.GemericExample.executor": "Run",
-    "Application.GenericExample.executor": "Run",
-    "Application.HashCodeExample.executor": "Run",
-    "Application.HashExample.executor": "Run",
-    "Application.HashMap.executor": "Run",
-    "Application.HashMapExample.executor": "Run",
-    "Application.HashSetExample.executor": "Run",
-    "Application.Hello.executor": "Run",
-    "Application.HomeExample.executor": "Run",
-    "Application.IfDiceExample.executor": "Run",
-    "Application.IfElseExample.executor": "Run",
-    "Application.IfElseIfElseExample.executor": "Run",
-    "Application.IfExample.executor": "Run",
-    "Application.IfNestedExample.executor": "Run",
-    "Application.InExample.executor": "Run",
-    "Application.IncreaseDecreaseOperatorExample.executor": "Run",
-    "Application.IndexOfContainsExample.executor": "Run",
-    "Application.InstanceofExample.executor": "Run",
-    "Application.IntegerLiteralExample.executor": "Run",
-    "Application.KoreanExample.executor": "Run",
-    "Application.LambdaExample.executor": "Run",
-    "Application.LengthExample.executor": "Run",
-    "Application.LinkedListExample.executor": "Run",
-    "Application.LogicalOperatorExample.executor": "Run",
-    "Application.LongExample.executor": "Run",
-    "Application.MapExample.executor": "Run",
-    "Application.MathExample.executor": "Run",
-    "Application.MultiInterfacelmplExample.executor": "Run",
-    "Application.OptionalExample.executor": "Run",
-    "Application.OverflowUnderFlowExample.executor": "Run",
-    "Application.OverflowunderFlowExample.executor": "Run",
-    "Application.PattenExample.executor": "Run",
-    "Application.PhoneExample.executor": "Run",
-    "Application.PrintAnnotationExample.executor": "Run",
-    "Application.PrintfExample.executor": "Run",
-    "Application.PromotionExample.executor": "Run",
-    "Application.QueueExample.executor": "Run",
-    "Application.RandomExample.executor": "Run",
-    "Application.ReferenceVariableCompareExample.executor": "Run",
-    "Application.RemoteControlExample.executor": "Run",
-    "Application.ReplaceExample.executor": "Run",
-    "Application.ScannerExample.executor": "Run",
-    "Application.SmartPhoneExample.executor": "Run",
-    "Application.SortingExample.executor": "Run",
-    "Application.SplitExample.executor": "Run",
-    "Application.StreamExample.executor": "Run",
-    "Application.StreamPipeLineExample.executor": "Run",
-    "Application.StringBuilderExample.executor": "Run",
-    "Application.StringExample.executor": "Run",
-    "Application.StringTokenizerExample.executor": "Run",
-    "Application.SupersonicAirplaneExample.executor": "Run",
-    "Application.SwitchExample.executor": "Run",
-    "Application.ThrowExample.executor": "Run",
-    "Application.ThrowExample2.executor": "Run",
-    "Application.ToStringExample.executor": "Run",
-    "Application.TryWithResourceExample.executor": "Run",
-    "Application.VariableExchangeExample.executor": "Run",
-    "Application.VariableInitializationExample.executor": "Run",
-    "Application.WriteExample.executor": "Run",
-    "Application.ch01.sec11.Hello.executor": "Run",
-    "Application.ch06.sec07.exam03.KoreanExample.executor": "Run",
-    "Application.ch06.sec07.exam04.CarExample.executor": "Run",
-    "Application.ch06.sec07.exam05.CarExample.executor": "Run",
-    "Application.ch06.sec09.CarExample.executor": "Run",
-    "Application.ch06.sec14.CarExample.executor": "Run",
-    "Application.ch07.sec03.exam01.SmartPhoneExample.executor": "Run",
-    "Application.ch07.sec03.exam02.SmartPhoneExample.executor": "Run",
-    "Application.ch08.sec04.RemoteControlExample.executor": "Run",
-    "Application.ch09.sec02.exam02.AExample.executor": "Run",
-    "Application.ch09.sec03.exam02.AExample.executor": "Run",
-    "Application.ch09.sec05.exam02.AExample.executor": "Run",
-    "Application.ch09.sec07.exam03.ButtonExample.executor": "Run",
-    "Application.ch11.sec03.exam01.ExceptionHandlingExample.executor": "Run",
-    "Application.ch11.sec03.exam02.ExceptionHandlingExample.executor": "Run",
-    "Application.ch11.sec03.exam03.ExceptionHandlingExample.executor": "Run",
-    "Application.ch13.sec02.exam01.GenericExample.executor": "Run",
-    "Application.ch13.sec02.exam02.GenericExample.executor": "Run",
-    "Application.ch13.sec03.exam01.GenericExample.executor": "Run",
-    "Application.ch14.sec03.exam02.BeepPrintExample.executor": "Run",
-    "Application.ch15.sec03.exam02.HashExample.executor": "Run",
-    "Application.ch16.sec03.LambdaExample.executor": "Run",
-    "Application.ch16.sec04.LambdaExample.executor": "Run",
-    "Application.ch17.sec04.exam01.StreamExample.executor": "Run",
-    "Application.ch17.sec04.exam02.StreamExample.executor": "Run",
-    "Application.ch17.sec04.exam03.StreamExample.executor": "Run",
-    "Application.ch17.sec06.exam02.MapExample.executor": "Run",
-    "Application.ch17.sec07.exam02.SortingExample.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/kb_fullstack",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/kb_fullstack/04_JAVA/study/mylib/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AbstrackMethodExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccountExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccuracyExample1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccuracyExample2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AggregateExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayCreatByValueListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AssignmentOperatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BeepPrintExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoxingUnBoxingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ButtonExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ByteExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CastingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharAtExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparableExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareOperatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionalOperatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DriverExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EarthExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ErrExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandlingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandlingExample1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExitExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExtendsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FilteringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlatMappingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GarbageObjectExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GemericExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashCodeExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfDiceExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElseExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElseIfElseExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfNestedExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IncreaseDecreaseOperatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndexOfContainsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceofExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerLiteralExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KoreanExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LengthExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LogicalOperatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiInterfacelmplExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptionalExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OverflowUnderFlowExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OverflowunderFlowExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PattenExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PhoneExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintAnnotationExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintfExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PromotionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueueExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RandomExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReferenceVariableCompareExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoteControlExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmartPhoneExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SplitExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamPipeLineExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilderExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringTokenizerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SupersonicAirplaneExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThrowExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThrowExample2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ToStringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryWithResourceExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariableExchangeExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariableInitializationExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WriteExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch01.sec11.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch06.sec07.exam03.KoreanExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch06.sec07.exam04.CarExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch06.sec07.exam05.CarExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch06.sec09.CarExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch06.sec14.CarExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch07.sec03.exam01.SmartPhoneExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch07.sec03.exam02.SmartPhoneExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch08.sec04.RemoteControlExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch09.sec02.exam02.AExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch09.sec03.exam02.AExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch09.sec05.exam02.AExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch09.sec07.exam03.ButtonExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch11.sec03.exam01.ExceptionHandlingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch11.sec03.exam02.ExceptionHandlingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch11.sec03.exam03.ExceptionHandlingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch13.sec02.exam01.GenericExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch13.sec02.exam02.GenericExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch13.sec03.exam01.GenericExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch14.sec03.exam02.BeepPrintExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch15.sec03.exam02.HashExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch16.sec03.LambdaExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch16.sec04.LambdaExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch17.sec04.exam01.StreamExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch17.sec04.exam02.StreamExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch17.sec04.exam03.StreamExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch17.sec06.exam02.MapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ch17.sec07.exam02.SortingExample.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/kb_fullstack&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/kb_fullstack/04_JAVA/study/mylib/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\kb_fullstack\04_JAVA\study\lib" />
@@ -211,26 +204,13 @@
       <recent name="ch03.sec04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WriteExample">
+  <component name="RunManager" selected="Application.StreamExample">
     <configuration name="FlatMappingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch17.sec06.exam03.FlatMappingExample" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch17.sec06.exam03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.sec06.exam01.MapExample" />
-      <module name="study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch17.sec06.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,6 +231,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17.sec01.StreamExample" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch17.sec01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WriteExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch18.sec04.exam01.WriteExample" />
       <module name="study" />
@@ -264,12 +257,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch17.sec06.exam02.MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.sec06.exam02.MapExample" />
+    <configuration name="WriteExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec02.exam02.WriteExample1" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17.sec06.exam02.*" />
+          <option name="PATTERN" value="ch18.sec02.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamExample" />
+        <item itemvalue="Application.WriteExample1" />
         <item itemvalue="Application.WriteExample" />
         <item itemvalue="Application.SortingExample" />
         <item itemvalue="Application.FlatMappingExample" />
-        <item itemvalue="Application.ch17.sec06.exam02.MapExample" />
-        <item itemvalue="Application.MapExample" />
       </list>
     </recent_temporary>
   </component>
@@ -319,12 +312,25 @@
       <workItem from="1719890024546" duration="16602000" />
       <workItem from="1719982570781" duration="12395000" />
       <workItem from="1720069015515" duration="10644000" />
-      <workItem from="1720082528181" duration="1101000" />
+      <workItem from="1720082528181" duration="1292000" />
     </task>
+    <task id="LOCAL-00001" summary="2024.07.04 commit">
+      <option name="closed" value="true" />
+      <created>1720083790871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720083790871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024.07.04 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.07.04 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
