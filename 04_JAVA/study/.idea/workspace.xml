@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efd09104-36fe-411f-86fe-d379782b6909" name="Changes" comment="2024.07.04 commit" />
+    <list default="true" id="efd09104-36fe-411f-86fe-d379782b6909" name="Changes" comment="2024.07.04 commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch18/sec02/exam02/WriteExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch18/sec02/exam01/WriteExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch18/sec02/exam02/WriteExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch18/sec02/exam01/WriteExample2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +62,7 @@
     "Application.AssignmentOperatorExample.executor": "Run",
     "Application.BeepPrintExample.executor": "Run",
     "Application.BoxingUnBoxingExample.executor": "Run",
+    "Application.BufferExample.executor": "Run",
     "Application.ButtonExample.executor": "Run",
     "Application.ByteExample.executor": "Run",
     "Application.Calculator.executor": "Run",
@@ -65,11 +70,13 @@
     "Application.CarExample.executor": "Run",
     "Application.CastingExample.executor": "Run",
     "Application.CharAtExample.executor": "Run",
+    "Application.CharacterConvertStreamExample.executor": "Run",
     "Application.ComparableExample.executor": "Run",
     "Application.ComparatorExample.executor": "Run",
     "Application.CompareOperatorExample.executor": "Run",
     "Application.ComputerExample.executor": "Run",
     "Application.ConditionalOperatorExample.executor": "Run",
+    "Application.CopyExample.executor": "Run",
     "Application.DriverExample.executor": "Run",
     "Application.EarthExample.executor": "Run",
     "Application.EqualsExample.executor": "Run",
@@ -79,6 +86,7 @@
     "Application.ExceptionHandlingExample1.executor": "Run",
     "Application.ExitExample.executor": "Run",
     "Application.ExtendsExample.executor": "Run",
+    "Application.FileExample.executor": "Run",
     "Application.FilteringExample.executor": "Run",
     "Application.FlatMappingExample.executor": "Run",
     "Application.GarbageObjectExample.executor": "Run",
@@ -120,6 +128,8 @@
     "Application.PromotionExample.executor": "Run",
     "Application.QueueExample.executor": "Run",
     "Application.RandomExample.executor": "Run",
+    "Application.ReadExample.executor": "Run",
+    "Application.ReadLineExample.executor": "Run",
     "Application.ReferenceVariableCompareExample.executor": "Run",
     "Application.RemoteControlExample.executor": "Run",
     "Application.ReplaceExample.executor": "Run",
@@ -142,6 +152,7 @@
     "Application.VariableInitializationExample.executor": "Run",
     "Application.WriteExample.executor": "Run",
     "Application.WriteExample1.executor": "Run",
+    "Application.WriterExample2.executor": "Run",
     "Application.ch01.sec11.Hello.executor": "Run",
     "Application.ch06.sec07.exam03.KoreanExample.executor": "Run",
     "Application.ch06.sec07.exam04.CarExample.executor": "Run",
@@ -170,6 +181,8 @@
     "Application.ch17.sec04.exam03.StreamExample.executor": "Run",
     "Application.ch17.sec06.exam02.MapExample.executor": "Run",
     "Application.ch17.sec07.exam02.SortingExample.executor": "Run",
+    "Application.ch18.sec03.exam02.ReadExample.executor": "Run",
+    "Application.ch18.sec04.exam02.ReadExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -198,20 +211,20 @@
       <recent name="ch18.sec04.exam01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch18.sec02.exam02" />
       <recent name="ch09.sec07.exam03" />
       <recent name="test" />
       <recent name="ch06.sec10" />
       <recent name="ch06.sec07.exam03" />
-      <recent name="ch03.sec04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamExample">
-    <configuration name="FlatMappingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.sec06.exam03.FlatMappingExample" />
+  <component name="RunManager" selected="Application.ReadLineExample">
+    <configuration name="BufferExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec07.exam01.BufferExample" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17.sec06.exam03.*" />
+          <option name="PATTERN" value="ch18.sec07.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.sec07.exam01.SortingExample" />
+    <configuration name="CharacterConvertStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec06.CharacterConvertStreamExample" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17.sec07.exam01.*" />
+          <option name="PATTERN" value="ch18.sec06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.sec01.StreamExample" />
+    <configuration name="FileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.FileExample" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17.sec01.*" />
+          <option name="PATTERN" value="ch18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch18.sec04.exam01.WriteExample" />
+    <configuration name="ReadLineExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec07.exam02.ReadLineExample" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch18.sec04.exam01.*" />
+          <option name="PATTERN" value="ch18.sec07.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch18.sec02.exam02.WriteExample1" />
+    <configuration name="ch18.sec04.exam02.ReadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec04.exam02.ReadExample" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch18.sec02.exam02.*" />
+          <option name="PATTERN" value="ch18.sec04.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamExample" />
-        <item itemvalue="Application.WriteExample1" />
-        <item itemvalue="Application.WriteExample" />
-        <item itemvalue="Application.SortingExample" />
-        <item itemvalue="Application.FlatMappingExample" />
+        <item itemvalue="Application.ReadLineExample" />
+        <item itemvalue="Application.BufferExample" />
+        <item itemvalue="Application.FileExample" />
+        <item itemvalue="Application.CharacterConvertStreamExample" />
+        <item itemvalue="Application.ch18.sec04.exam02.ReadExample" />
       </list>
     </recent_temporary>
   </component>
@@ -315,6 +328,7 @@
       <workItem from="1720069015515" duration="10644000" />
       <workItem from="1720082528181" duration="1292000" />
       <workItem from="1720144698011" duration="2424000" />
+      <workItem from="1720408304805" duration="14720000" />
     </task>
     <task id="LOCAL-00001" summary="2024.07.04 commit">
       <option name="closed" value="true" />
