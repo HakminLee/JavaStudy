@@ -35,13 +35,9 @@ public class App {
             //getSelect는 int를 반환하는 메소드기 때문에 바로 받아와서 처리
             int selectNo = menu.getSelect();
             executeCommand(selectNo);
-            // 사용자가 입력한 값이 5일 때 while문을 종료시킴
-            if (selectNo==5) {
-                break;
             }
         }
-        System.out.println("프로그램 종료");
-    }
+
 
     public static void main(String[] args) {
         App app = new App();

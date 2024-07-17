@@ -4,8 +4,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d997daf-a367-4cc0-9538-8cc16b5fd07b" name="Changes" comment="">
+    <list default="true" id="5d997daf-a367-4cc0-9538-8cc16b5fd07b" name="Changes" comment="2024.07.17 CLI-Frame work">
+      <change afterPath="$PROJECT_DIR$/../.idea/04_JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V4/V4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V4/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V4/src/basic/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V4/src/command/AnalizeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V4/src/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V4/src/command/ExitCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V4/src/command/GetScoresCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V4/src/command/InitScoresCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V4/src/command/PrintScoreCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V4/src/domain/StudentScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V4/src/ui/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V5/V5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V5/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V5/src/basic/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V5/src/command/AnalizeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V5/src/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V5/src/command/ExitCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V5/src/command/GetScoresCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V5/src/command/InitScoresCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V5/src/command/PrintScoreCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V5/src/domain/StudentScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V5/src/ui/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V5/src/ui/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/V6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/src/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/src/basic/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/src/command/AnalizeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/src/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/src/command/ExitCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/src/command/GetScoresCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/src/command/InitScoresCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/src/command/PrintScoreCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/src/domain/StudentScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/src/ui/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/V6/src/ui/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm2/Algorithm2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/.idea/kb_fullstack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/.idea/04_JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/.idea/modules/V3.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/.idea/modules/V3.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/CLI-framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/V0/V0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/V1/V1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/V2/V2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/V3/V3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/study/mylib/mylib.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/study/study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/Algorithm2/Algorithm2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/JavaStudy/.idea/JavaStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/V3/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/V3/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/V3/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/V3/App.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +97,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HakminLee"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HakminLee&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HakminLee/JavaStudy.git",
-    "accountId": "8c1446cd-8252-4543-a37f-0633020c282f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HakminLee/JavaStudy.git&quot;,
+    &quot;accountId&quot;: &quot;8c1446cd-8252-4543-a37f-0633020c282f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -65,72 +122,82 @@
     "Application.App (1).executor": "Run",
     "Application.App (2).executor": "Run",
     "Application.App (3).executor": "Run",
+    "Application.App (4).executor": "Run",
     "Application.App.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MyApp (1).executor": "Run",
+    "Application.MyApp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/kb_fullstack/04_JAVA/CLI-framework/V3/src",
+    "last_opened_file_path": "C:/kb_fullstack/04_JAVA/CLI-framework/V6/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/kb_fullstack/04_JAVA/CLI-framework/V3/src/Main.java",
+    "onboarding.tips.debug.path": "C:/kb_fullstack/04_JAVA/CLI-framework/V6/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\kb_fullstack\04_JAVA\CLI-framework\V6\src" />
+      <recent name="C:\kb_fullstack\04_JAVA\CLI-framework\V5\src" />
+      <recent name="C:\kb_fullstack\04_JAVA\CLI-framework\V4\src" />
       <recent name="C:\kb_fullstack\04_JAVA\CLI-framework\V3\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (3)">
+  <component name="RunManager" selected="Application.App (1)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="V1" />
+      <module name="V6" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="V2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="V3" />
+      <module name="V4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="V0" />
+      <module name="V5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="V3" />
+    <configuration name="MyApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyApp" />
+      <module name="V6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyApp" />
+      <module name="V5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App (3)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.MyApp (1)" />
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.MyApp" />
+        <item itemvalue="Application.App (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -155,12 +222,26 @@
       <workItem from="1719888250069" duration="4249000" />
       <workItem from="1719982553914" duration="794000" />
       <workItem from="1719994797822" duration="2537000" />
-      <workItem from="1721186044043" duration="1317000" />
+      <workItem from="1721186044043" duration="6664000" />
+      <workItem from="1721200634369" duration="5663000" />
     </task>
+    <task id="LOCAL-00001" summary="2024.07.17 CLI-Frame work">
+      <option name="closed" value="true" />
+      <created>1721192142026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721192142026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024.07.17 CLI-Frame work" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.07.17 CLI-Frame work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -185,6 +266,16 @@
           <line>11</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/V4/src/App.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/V5/src/MyApp.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/V0/src/App.java</url>
           <line>3</line>
@@ -202,6 +293,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/V4/src/App.java</url>
+          <line>48</line>
+          <properties class="App" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
