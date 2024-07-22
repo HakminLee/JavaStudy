@@ -4,65 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d997daf-a367-4cc0-9538-8cc16b5fd07b" name="Changes" comment="2024.07.17 CLI-Frame work">
-      <change afterPath="$PROJECT_DIR$/../.idea/04_JAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V4/V4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V4/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V4/src/basic/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V4/src/command/AnalizeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V4/src/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V4/src/command/ExitCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V4/src/command/GetScoresCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V4/src/command/InitScoresCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V4/src/command/PrintScoreCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V4/src/domain/StudentScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V4/src/ui/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V5/V5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V5/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V5/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V5/src/basic/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V5/src/command/AnalizeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V5/src/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V5/src/command/ExitCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V5/src/command/GetScoresCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V5/src/command/InitScoresCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V5/src/command/PrintScoreCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V5/src/domain/StudentScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V5/src/ui/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V5/src/ui/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/V6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/src/MyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/src/basic/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/src/command/AnalizeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/src/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/src/command/ExitCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/src/command/GetScoresCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/src/command/InitScoresCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/src/command/PrintScoreCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/src/domain/StudentScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/src/ui/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/V6/src/ui/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Algorithm2/Algorithm2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/.idea/kb_fullstack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/.idea/04_JAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/.idea/modules/V3.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/.idea/modules/V3.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/CLI-framework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/V0/V0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/V1/V1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/V2/V2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/CLI-framework/V3/V3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/study/mylib/mylib.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/04_JAVA/study/study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/Algorithm2/Algorithm2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/kb_fullstack/JavaStudy/.idea/JavaStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="5d997daf-a367-4cc0-9538-8cc16b5fd07b" name="Changes" comment="2024.07.17 CLI-Frame work V6까지 진행">
+      <change afterPath="$PROJECT_DIR$/../StudentScore/src/main/java/org/scoula/studentscore/StudentScoresApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentScore/src/main/java/org/scoula/studentscore/domain/StudentScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/.idea/modules/scoulacli.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/.idea/modules/scoulacli.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/scoulaLib.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/scoulacli.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/scoulacli/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/scoulacli/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/scoulacli/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/scoulacli/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/scoulacli/src/main/java/org/scoula/lib/cli/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/scoulacli/src/main/java/org/scoula/lib/cli/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/scoulacli/src/main/java/org/scoula/lib/cli/command/ExitCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/scoulacli/src/main/java/org/scoula/lib/cli/ui/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/scoulacli/src/main/java/org/scoula/lib/cli/ui/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scoulaLib/scoulacli/src/main/java/org/scoula/lib/cli/ui/MenuItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/V3/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/V3/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/V3/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/V3/App.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,33 +76,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App (1).executor": "Run",
-    "Application.App (2).executor": "Run",
-    "Application.App (3).executor": "Run",
-    "Application.App (4).executor": "Run",
-    "Application.App.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MyApp (1).executor": "Run",
-    "Application.MyApp.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/kb_fullstack/04_JAVA/CLI-framework/V6/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/kb_fullstack/04_JAVA/CLI-framework/V6/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.App (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.App (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.App (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyApp (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyApp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/kb_fullstack/04_JAVA/CLI-framework/V6/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/kb_fullstack/04_JAVA/CLI-framework/V6/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\kb_fullstack\04_JAVA\CLI-framework\V6\src" />
@@ -223,7 +182,8 @@
       <workItem from="1719982553914" duration="794000" />
       <workItem from="1719994797822" duration="2537000" />
       <workItem from="1721186044043" duration="6664000" />
-      <workItem from="1721200634369" duration="5663000" />
+      <workItem from="1721200634369" duration="6375000" />
+      <workItem from="1721278296219" duration="1502000" />
     </task>
     <task id="LOCAL-00001" summary="2024.07.17 CLI-Frame work">
       <option name="closed" value="true" />
@@ -233,7 +193,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721192142026</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2024.07.17 CLI-Frame work V6까지 진행">
+      <option name="closed" value="true" />
+      <created>1721206373427</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721206373427</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2024.07.17 CLI-Frame work V6까지 진행">
+      <option name="closed" value="true" />
+      <created>1721206418644</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721206418644</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +217,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024.07.17 CLI-Frame work" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.07.17 CLI-Frame work" />
+    <MESSAGE value="2024.07.17 CLI-Frame work V6까지 진행" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.07.17 CLI-Frame work V6까지 진행" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
