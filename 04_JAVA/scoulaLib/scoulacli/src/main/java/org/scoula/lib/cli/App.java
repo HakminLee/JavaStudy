@@ -22,6 +22,10 @@ public abstract class App {
     public void createMenu(Menu menu){
     }
 
+    protected void setMenu(Menu menu) {
+        this.menu = menu;
+    }
+
     public void run(){
         //ArrayLisr로 변하면서 초기 사이즈를 정해줄 필요가 없어짐
         init();
